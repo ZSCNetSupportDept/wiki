@@ -1,4 +1,6 @@
 <!-- TITLE: 移动故障 -->
-<!-- SUBTITLE: A quick summary of Chinamobile -->
+<!-- SUBTITLE: 移动故障问题索引 -->
 
-# Header
+# 故障索引
+
+- [故障:651-物理连接错误](/chinamobile/故障:651-物理连接错误)
