@@ -15,16 +15,14 @@
 所有Wiki页面的源文件都存放在 [Github 仓库](https://github.com/ZSCNetSupportDept/wiki) 上，
 Wiki系统会定时(每5分钟)从Github仓库拉取最新内容并更新。
 
+Tips: 若想快速同步，请登录Wiki网站，执行`设置->系统信息->管理工具->清空缓存和重建索引`。
+
 ### 贡献途径
 
 目前，每一个人都可以通过提交 [Pull Request](https://github.com/ZSCNetSupportDept/wiki/pulls) 的方式
 向代码仓库提交更改。
 
 你可以 [点击这里](https://github.com/ZSCNetSupportDept/wiki) 了解如何创建 Pull Request。
-
-### 系统使用技巧
-
-- 系统五分钟同步一次，若想快速同步，请登录Wiki位置，在`设置->系统信息->管理工具->清空缓存和重建索引`处解决
 
 ### 文件名称
 
