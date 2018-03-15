@@ -20,10 +20,8 @@
 2. 网络和共享中心-更改适配器设置，依次禁用再启用各个本地连接/以太网，删除所有宽带连接并尝试重建
 3. 确认本地连接/以太网-属性-Internet协议版本4(TCP/IPv4)-属性，选中自动获取IP地址，自动获得获得DNS服务器地址
 4. 右键管理员运行命令提示符(cmd.exe)，执行
-
     1. `netsh winsock reset` 
     2. `ipconfig /release` 
     3. `ipconfig /renew`
-    
 5. 运行U盘携带的神器(winsockfix.exe)
 6. 重启计算机
