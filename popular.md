@@ -3,4 +3,4 @@
 
 # 文章列表
 
-- [DNS 服务器基础介绍](/article/popular/科普-DNS服务器基础介绍)
+- [DNS 服务器基础介绍](/article/popular/科普-dns服务器基础介绍)
