@@ -8,3 +8,7 @@
 - [联通故障](/chinaunicom)
 - [MacOS故障](/macos)
 - [常见故障](/common)
+
+# 科普专区
+
+- [科普文章](/popular)
