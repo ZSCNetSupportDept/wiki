@@ -8,7 +8,7 @@
 ### 文档格式
 
 所有Wiki页面均使用[Markdown](https://en.wikipedia.org/wiki/Markdown)语言撰写。
-你可以通过 *TODO* 了解如何开始上手并撰写Markdown文档。
+你可以通过 [马克飞象的样例文档](https://maxiang.io/) 了解如何开始上手并撰写Markdown文档。
 
 ### 贡献途径
 
