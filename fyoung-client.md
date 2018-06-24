@@ -8,7 +8,10 @@
 - [故障0-客户端安装时长时间未完成](/article/fault/故障0-客户端安装时长时间未完成)
 - [故障0-拨号服务无法启动](/article/fault/故障0-拨号服务无法启动)
 - [故障0-无法解析域名或服务器](/article/fault/故障0-无法解析域名或服务器)
-- [故障0-Windows通信端口初始化失败](/article/fault/故障0-Windows通信端口初始化失败)
+- [故障0-windows通信端口初始化失败](/article/fault/故障0-windows-通信端口初始化失败)
+- [故障0-获取到192开头的错误ip地址](/article/fault/获取到192开头的错误ip地址)
+- [故障0-获取到169开头的错误ip地址](/article/fault/获取到169开头的错误ip地址)
+
 
 ## 1
 
