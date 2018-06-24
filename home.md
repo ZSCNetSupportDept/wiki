@@ -7,7 +7,6 @@
 - [移动故障](/chinamobile)
 - [联通故障](/chinaunicom)
 - [MacOS故障](/macos)
-- [常见故障](/common)
 
 # 科普专区
 
