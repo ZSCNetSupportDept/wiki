@@ -134,27 +134,27 @@ Tips: 若想快速同步，请登录Wiki网站，执行`设置->系统信息->�
 1. 将下面的模版代码，放在 `SUBTITLE` 下，请不要在标签前加空格
     ```text
     <!-- overview: 请将代码放于 SUBTITLE 下 -->
-    <div class="overview" style="float:right;border: 1px solid #4054b2;padding:10px;width:280px;background-color: #f9f9fb;margin:10px;">
-    <div class="overview-header" style="text-align: center;margin: 5px 0">
-    <h3 style="margin:0 0 10px">物理连接错误</h3>
-     
-    <img src="/uploads/651.png" />
+    <div class="overview" style="float:right;width:280px;padding:10px;margin:10px;border: 1px solid #4054b2;background-color: #f9f9fb;">
+    <div class="overview-header" style="width:100%;margin: 5px 0;text-align: center;">
+    <h3 style="margin:0 0 10px;">物理连接错误</h3>
+
+    <img style="display:block;width:100%;max-width:100%;margin-left:-10px;" src="/uploads/651-overview.png" />
     </div>
-    
-    <div class="overview-main" style="text-align: left;">
-    <div class="overview-item" style="display: grid; grid-template-columns: 100px 1fr;">
-    <p style="font-weight: 600;margin: 5px;padding:0;">故障名称</p>
-    <p style="margin:5px;padding:0;">物理连接错误</p>
+
+    <div class="overview-main" style="display: flex; flex-direction: column;padding:10px 5px 0 5px;">
+    <div class="overview-item" style="display: flex;margin: 5px 0;">
+    <p style="flex:0 0 100px;padding:0;font-weight: 600;">故障名称</p>
+    <p style="padding:0;">物理连接错误</p>
     </div>
-    
-    <div class="overview-item" style="display: grid; grid-template-columns: 100px 1fr;">
-    <p style="font-weight: 600;margin: 5px;padding:0;">故障代码</p>
-    <p style="margin:5px;padding:0;">651</p>
+
+    <div class="overview-item" style="display: flex;margin: 5px 0;">
+    <p style="flex:0 0 100px;padding:0;font-weight: 600;">故障代码</p>
+    <p style="padding:0;">651</p>
     </div>
-    
-    <div class="overview-item" style="display: grid; grid-template-columns: 100px 1fr;">
-    <p style="font-weight: 600;margin: 5px;padding:0;">所属运营商</p>
-    <p style="margin:5px;padding:0;">移动、联通</p>
+
+    <div class="overview-item" style="display: flex;margin: 5px 0;">
+    <p style="flex:0 0 100px;padding:0;font-weight: 600;">所属运营商</p>
+    <p style="padding:0;">移动、联通</p>
     </div>
     </div>
     </div>
