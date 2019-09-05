@@ -1,4 +1,4 @@
-# [Wiki](http://wiki.sola.love) Repository
+# [Wiki](https://wiki.zsxyww.com) Repository
 
 ## 贡献指南
 
