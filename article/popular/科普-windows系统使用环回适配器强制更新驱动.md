@@ -1,4 +1,4 @@
-<!-- TITLE: windows系统使用环回适配器更新网卡(适配器)驱动.md -->
+<!-- TITLE: windows系统使用环回适配器更新网卡(适配器)驱动 -->
 <!-- SUBTITLE: 本文章旨在科普遇网卡设备一直处于黄色感叹号异常状态解决思路 -->
 
 # 简介
@@ -32,7 +32,7 @@
 
    <img src="/uploads/kp-hhspq_screenshot3.jpg" alt="让我从计算机上的可用驱动列表中选取" height="350" width="500" >
    
-5. 去掉显示兼容硬件的勾-厂商:Microsoft--网络适配器:Microsoft KM-TEST 环回适配器
+5. **去掉** 显示兼容硬件的勾-厂商:Microsoft--网络适配器:Microsoft KM-TEST 环回适配器
    
    <img src="/uploads/kp-hhspq_screenshot4.jpg" alt="去掉显示兼容硬件的勾选择驱动" height="350" width="500" >
 
