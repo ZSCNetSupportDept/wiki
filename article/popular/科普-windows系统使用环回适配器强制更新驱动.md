@@ -48,4 +48,4 @@
 ## PS
 1. 如果在安装驱动的过程中一直在等待中或者安装失败，请尝试到服务中重启 `Device Install Service` 及 `Device Setup Manager` 服务，再重新操作
 
-   【同时按下键盘上的 `Win + R` 键，输入 `services.msc` 回车即可进入服务管理页面】
+   【同时按下键盘上的 <kbd>Win</kbd>+<kbd>R</kbd> 键，输入 `services.msc` 回车即可进入服务管理页面】
