@@ -14,4 +14,4 @@
 
 ## 新wiki
 
-我们正在编写新的[wiki](https://zscdev-demo.pages.dev/docs/wiki/%E9%A6%96%E9%A1%B5),你可以上去看看，在新wiki存在的同时，本wiki将保持长期开放。
+我们正在编写新的[wiki](https://developer.zsxyww.com/docs/wiki/%E9%A6%96%E9%A1%B5),你可以上去看看，在新wiki存在的同时，本wiki将保持长期开放。
